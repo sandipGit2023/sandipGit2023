@@ -61,29 +61,7 @@
 - 💡 Designed reusable components to reduce development time by **30%**.  
 - 📈 Helped a SaaS platform achieve **99.9% uptime** with optimized backend architecture.  
 
-## 🌱 Goals  
-
-- 🧠 Master **Microservices** and **Event-Driven Architectures**.  
-- 📈 Contribute to large-scale open-source projects to give back to the community.  
-- 🌍 Build a product that impacts millions of users globally.  
-
-## 🎯 Philosophy  
-
-- **Write code as if the next person maintaining it is a serial killer who knows where you live.** 😄  
-- Embrace **lifelong learning** to stay ahead of tech trends.  
-- Prioritize **performance and user experience** in every project.  
-
 ---
 
 ## 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghodasara-sandip) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandipGit2023) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghodasarasandip011@gmail.com)
-
-
-
----
-
-## 🎯 My Philosophy  
-
-**Clean Code** | **Scalable Architectures** | **Continuous Learning**  
-
----
